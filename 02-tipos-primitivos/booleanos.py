@@ -8,4 +8,4 @@ if a > b:
 if True:
     print ("a é maior que b")
 
-    "Existem várias formas de provar verdadeiro ou falso através do boolean"
+    "Existem várias formas de provar verdadeiro ou falso através do boolean."
