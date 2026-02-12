@@ -37,7 +37,8 @@ def calcular_media(*numeros):
     qtd =len(numeros)
     soma = 0
     for numero in numero:
-    media = soma / qtd
+        soma+=numero
+    media += soma / qtd
     return media
 
 resultado = calcular_media(7,2,4,9)
