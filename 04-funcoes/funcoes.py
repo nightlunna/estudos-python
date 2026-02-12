@@ -21,7 +21,7 @@ def somar(n1, n2):
     print(n1 + n2)
 
 "existe um comando chamado retorno de valores que se chama RETURN"
-"ele permite que a função devolva um valor para quem chamou, guardar o resultado em uma variável"
+"ele permite que a função devolva um valor para quem chamou, guardar o resultado em uma variável."
 
 #exemplo
 def somar2(n1, n2):
