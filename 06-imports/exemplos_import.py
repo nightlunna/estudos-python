@@ -1,6 +1,5 @@
 # Quando você digita import nome, o Python procura um arquivo chamado nome.py em dois lugares principais:
 # Na mesma pasta onde o seu script atual está rodando.
-# Na pasta Lib onde o próprio Python está instalado no seu computador.
 
 # Nunca crie um arquivo seu com o mesmo nome de uma biblioteca padrão (ex: não crie um time.py). 
 # Se fizer isso, vai importar o seu arquivo em vez da biblioteca oficial e seu código vai quebrar.
