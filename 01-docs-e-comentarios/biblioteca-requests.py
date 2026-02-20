@@ -9,7 +9,7 @@
 
 # DELETE: Excluir uma informação
 
-# Para usar a biblioteca, é necessário instalá-la via terminal:
+# Para usar a biblioteca, é necessário instalar via terminal:
 
 # python -m venv venv (terminal)
 # pip install requests (terminal)
